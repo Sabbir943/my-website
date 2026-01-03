@@ -22,3 +22,15 @@ button{
     margin-left: 45%;
 
 }
+img{
+    border-radius: 20px;
+    margin-left: 250px;
+   margin-bottom: 40px;
+   margin-top: 40px;
+}
+#heading-2{
+    text-align: center;
+    color: blueviolet;
+    size: 30px;
+    font-weight: bold;
+}
